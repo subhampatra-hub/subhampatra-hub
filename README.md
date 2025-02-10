@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subham Patra</h1>
+<h1 align="center">Hello 👋, I'm Subham Patra</h1>
 <h3 align="center">Building, Breaking ,and learning one commit at a time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhampatra2003&label=Profile%20views&color=0e75b6&style=flat" alt="subhampatra2003" /> </p>
